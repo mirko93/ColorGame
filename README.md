@@ -1,2 +1,0 @@
-# ColorGame
-Html / css / JS
